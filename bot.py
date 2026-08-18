@@ -19,6 +19,7 @@ COGS = [
     "cogs.general",
     "cogs.syntax",
     "cogs.obfuscate",
+    "cogs.minify",
 ]
 
 
